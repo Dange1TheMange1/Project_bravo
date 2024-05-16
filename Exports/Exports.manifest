@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3276664972
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: map.ilfw
+      Dependencies: {}
